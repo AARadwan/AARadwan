@@ -92,10 +92,12 @@
 
 <hr style="border: 1px solid #444; margin: 30px 0;">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AARadwan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AARadwan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<p align="center">
+<a href="https://github.com/AARadwan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AARadwan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AARadwan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <hr style="border: 1px solid #444; margin: 30px 0;">
 
