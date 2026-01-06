@@ -69,7 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  style="margin: 4px;"  /> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo"  style="margin: 4px;"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40" alt="rxjs logo"  style="margin: 4px;"  /> 
-  <img src="https://ngrx.io/assets/images/badge.svg" height="40" alt="ngrx logo"  style="margin: 4px;"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrx/ngrx-original.svg" height="40" alt="ngrx logo  style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jasmine.svg" height="40" alt="jasmine logo"  style="margin: 4px;"  /> 
   <img src="https://avatars.githubusercontent.com/u/320565?v=4" height="40" alt="karma logo" />
 </p>
