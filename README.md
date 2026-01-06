@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
 <hr style="border: 1px solid #444; margin: 30px 0;">
 
-- 🏢 I'm a **Frontend Developer** specializing in **Angular** applications.  
+- 🏢 I'm a **Software Engineer** specializing in **Angular** applications.  
 - 💼 Currently working on building scalable, responsive, and high-performance web apps.  
 - ⚡ Passionate about clean code, user experience, and modern web technologies.  
-- 💬 Feel free to ask me about **Angular, TypeScript, JavaScript, or Frontend Architecture**.  
+- 💬 Feel free to ask me about **Angular, TypeScript, JavaScript , Node.js**.  
 - 🚀 Always aiming to craft impactful and elegant user interfaces that make a difference.
 
 <hr style="border: 1px solid #444; margin: 30px 0;">
@@ -70,6 +70,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo"  style="margin: 4px;"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40" alt="rxjs logo"  style="margin: 4px;"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrx/ngrx-original.svg" height="40" alt="ngrx logo  style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo  style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jasmine.svg" height="40" alt="jasmine logo"  style="margin: 4px;"  /> 
   <img src="https://avatars.githubusercontent.com/u/320565?v=4" height="40" alt="karma logo" />
 </p>
