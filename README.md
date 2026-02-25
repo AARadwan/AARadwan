@@ -16,7 +16,7 @@
 - 🏢 I'm a **Software Engineer** specializing in **Angular** applications.  
 - 💼 Currently working on building scalable, responsive, and high-performance web apps.  
 - ⚡ Passionate about clean code, user experience, and modern web technologies.  
-- 💬 Feel free to ask me about **Angular, TypeScript, JavaScript , Node.js**.  
+- 💬 Feel free to ask me about **Angular, TypeScript, JavaScript**.  
 - 🚀 Always aiming to craft impactful and elegant user interfaces that make a difference.
 
 <hr style="border: 1px solid #444; margin: 30px 0;">
@@ -70,7 +70,6 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo"  style="margin: 4px;"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40" alt="rxjs logo"  style="margin: 4px;"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrx/ngrx-original.svg" height="40" alt="ngrx logo  style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo  style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jasmine.svg" height="40" alt="jasmine logo"  style="margin: 4px;"  /> 
   <img src="https://avatars.githubusercontent.com/u/320565?v=4" height="40" alt="karma logo" />
 </p>
